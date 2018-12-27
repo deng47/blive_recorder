@@ -7,7 +7,7 @@
   - requests
 
 
-## Usage:   ./super_chat_calculator
+## Usage:
   - ./blive_recorder.py room_id video_length interval
 
 ## To do: 
